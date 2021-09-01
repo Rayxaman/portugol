@@ -1,20 +1,20 @@
-Algoritmo "faça1"
+Algoritmo "faÃ§a1"
 //  
 //  
-// Descrição   : (função) imprimir a tabela de equivalência de graus fahrenheit para centígrados.
-// Autor(a)    : Rayssa C. Asevedo
+// DescriÃ§Ã£o   : (funÃ§Ã£o) imprimir a tabela de equivalÃªncia de graus fahrenheit para centÃ­grados.
+// Autor(a)    : Rayssa
 // Data atual  : 26/06/2016
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
    i: inteiro
    F, C: real
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
    Leia (F)
    i <- i + 1
    C=5/9(F-32)
-   Enquanto (F>50 e F<70) faça
+   Enquanto (F>50 e F<70) faÃ§a
    F <- C+i
    Escreva (F <- C)
    Fimenquanto
